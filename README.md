@@ -5,7 +5,7 @@
 This project focuses on building a solid foundation in Semantic HTML while emphasizing accessibility, SEO optimization, and the implementation of ARIA roles for enhanced usability.
 
 ## Learning Objectives
-* **Master Semantic HTML**: Learn to structure web pages using semantic elements such as <header>, <main>, <article>, <section>, and <footer> for better content organization and accessibility.
+* **Master Semantic HTML**: Learn to structure web pages using semantic elements such as `<header>`, `<main>`, `<article>`, `<section>`, and `<footer>` for better content organization and accessibility.
 
 * **Optimize for SEO**: Understand how to improve the visibility of your webpage through appropriate usage of meta tags and proper document structure.
 
