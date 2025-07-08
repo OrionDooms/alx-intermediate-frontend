@@ -1,0 +1,4 @@
+1. Created a 0x03-sass_scss folder.
+2. Install Node.js v20.16 (optional)
+3. Node.js was already installed.
+4. Install SASS version 3.7.4 using the command: npm install sass@3.7.4js
